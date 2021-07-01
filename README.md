@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **Blockchain development, Flutter , MERN stack**
 
 
-- 📫 How to reach me **adityaashutosh82@gmail.com**, Instagram- **im_adi_ashu**
-- ⚡ Fun fact **I have a slightly good sense on humor online but highly unfunny on real note**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
