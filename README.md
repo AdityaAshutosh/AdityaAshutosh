@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/highsinberg" target="blank"><img src="https://img.shields.io/twitter/follow/imadiashu2000?logo=twitter&style=for-the-badge" alt="highsinberg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/highsinberg" target="blank"><img src="https://img.shields.io/twitter/follow/highsinberg?logo=twitter&style=for-the-badge" alt="highsinberg" /></a> </p>
 
 -🔗 Experimenting with LLMs, RAG, Vector databases and other deep learning concepts.
 
@@ -19,7 +19,6 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=AdityaAshutosh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
