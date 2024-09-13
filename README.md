@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/highsinberg" target="blank"><img src="https://img.shields.io/twitter/follow/highsinberg?logo=twitter&style=for-the-badge" alt="highsinberg" /></a> </p>
 
--🔗 Experimenting with LLMs, RAG, Vector databases and other deep learning concepts.
+-🔗 Experimenting with LLMs and RAG techniques .
 
 
 
